@@ -6,8 +6,8 @@ import axios from 'axios';
 import "../pages/page.css"
 const AddItemsPage = () => {
   const categories = [
-    'Helmets', 'Gloves', 'Jackets', 'Pants', 'Boots',
-    'Protection', 'Accessories', 'Parts', 'Tools'
+    'Sunglasses', 'Eyeglasses', 'Lenses', 'Cases', 'Cleaning Kits',
+    'Blue Light Glasses', 'Reading Glasses', 'Accessories', 'Frames'
   ];
 
   const [formData, setFormData] = useState({

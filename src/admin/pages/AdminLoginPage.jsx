@@ -80,7 +80,7 @@ const AdminLoginPage = () => {
                         Login to Your Account
                     </h2>
                     <p className="text-gray-600 text-sm">
-                        Access premium motorcycle gear and manage your orders
+                        Access premium eyewear and manage your orders
                     </p>
                 </div>
 
